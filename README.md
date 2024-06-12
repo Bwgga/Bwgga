@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bwgga
-- 👀 I’m interested in science
+- 👋 Hi, I’m Giovanna
+- 👀 I’m interested in science, and a lot of other things (such as music, history, languages, theology, etc.)
 - 🌱 I’m currently learning physics, math, and SE
 - 💞️ I’m looking to collaborate on science projects
 - 📫 How to reach me - don't
