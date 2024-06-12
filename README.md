@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bwgga
 - 👀 I’m interested in science
-- 🌱 I’m currently learning science
+- 🌱 I’m currently learning physics, math, and SE
 - 💞️ I’m looking to collaborate on science projects
 - 📫 How to reach me - don't
 - 😄 Pronouns: she/her
