@@ -5,7 +5,7 @@ I've known that I wanted to go into a computer related field for the absolute lo
 theoretical topics like Ramsey theory), and electronics related things.
 
 I am confident that I'll keep being curious about new technologies and programming techniques, and that I'll
-keep strengthening my skills but challenging myself with weird projects.
+keep strengthening my skills by challenging myself with weird projects.
 
 You can contact me at giovanna.gratton.amorim@gmail.com.
 
